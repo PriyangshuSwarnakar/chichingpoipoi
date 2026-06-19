@@ -3,12 +3,12 @@
 **Chichingpoipoi** is a desktop text normalization and QC tool for linguists and NLP/TTS data teams. It converts raw text into speech-ready form — expanding numbers, abbreviations, symbols, currencies, and more — and provides a quality control checker for normalized output. Built with Python and tkinter.
 
 **Credits**
-Shushanth P. (https://github.com/shushanth00000)
-Yathaarth M.P (https://github.com/Yathaarth18)
-Harika (https://github.com/harikavinod26)
-Kiran Mukhiya (https://github.com/KiranMukhiya)
-Joe Jacintha (https://github.com/joejacintha-a11y)
-Liz Grace John (https://github.com/lizgracejohn20-hub)
+- Shushanth P. (https://github.com/shushanth00000)
+- Yathaarth M.P (https://github.com/Yathaarth18)
+- Harika (https://github.com/harikavinod26)
+- Kiran Mukhiya (https://github.com/KiranMukhiya)
+- Joe Jacintha (https://github.com/joejacintha-a11y)
+- Liz Grace John (https://github.com/lizgracejohn20-hub)
 
 ---
 
