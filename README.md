@@ -9,6 +9,7 @@
 - Kiran Mukhiya (https://github.com/KiranMukhiya)
 - Joe Jacintha (https://github.com/joejacintha-a11y)
 - Liz Grace John (https://github.com/lizgracejohn20-hub)
+- Sandesh Koirala
 
 ---
 
